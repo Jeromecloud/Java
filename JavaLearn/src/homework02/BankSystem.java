@@ -1,4 +1,4 @@
-package HomeWork02;
+package homework02;
 
 public class BankSystem {
 	

@@ -1,4 +1,4 @@
-package HomeWork1;
+package homework1;
 
 //4、按以下的格式输出 "九九乘法口诀"。
 //1*1=1   
