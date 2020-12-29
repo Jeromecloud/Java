@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3、全选全不选反选</title>
+    <style type="text/css">
+    </style>
+    <script>
+        window.onload = function () {
+            var btnAll = document.getElementById("all");
+            var btnAllNot = document.getElementById("allNot");
+            var btnReverse = document.getElementById("reverse");
+            var btn = document.getElementsByName("hobby");
+            //    全选
+            btnAll.onclick = function () {
+                for (var i = 0; i < btn.length; i++) {
+                    btn[i].checked = true;
+                }
+            }
+            //    全不选
+            btnAllNot.onclick = function () {
+                for (var i = 0; i < btn.length; i++) {
+                    btn[i].checked = false;
+                }
+            }
+            //    反选
+            btnReverse.onclick = function () {
+                for (var i = 0; i < btn.length; i++) {
+                    if (btn[i].checked) {
+                        btn[i].checked = false;
+                    } else {
+                        btn[i].checked = true;
+                    }
+                }
+            }
+
+        }
+    </script>
+</head>
+<body>
+<div>
+    <div id="button">
+        <input type="button" class="btn" id="all" value="全选">
+        <input type="button" class="btn" id="allNot" value="全不选">
+        <input type="button" class="btn" id="reverse" value="反选">
+    </div>
+    <div id="label">
+        <label><input type="checkbox" name="hobby" value="eat"/>吃饭</label><br>
+        <label><input type="checkbox" name="hobby" value="sleep"/>睡觉</label><br>
+        <label><input type="checkbox" name="hobby" value="read"/>读书</label><br>
+        <label><input type="checkbox" name="hobby" value="game"/>打游戏</label><br>
+        <label><input type="checkbox" name="hobby" value="run"/>跑步</label><br>
+    </div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        div {
+            width: 10px;
+            height: 10px;
+            /*border: 1px solid aqua;*/
+            background: aqua;
+        }
+
+
+    </style>
+    <script>
+        window.onload = function () {
+            var btn = document.getElementById("btn");
+            btn.onclick = function () {
+                var divElement = document.getElementById("01");
+                divElement.style.transform = "translate(1000px,0)"
+            }
+        }
+    </script>
+</head>
+<body>
+<div id="01"></div>
+<button type="button" id="btn">移动</button>
+</body>
+</html>

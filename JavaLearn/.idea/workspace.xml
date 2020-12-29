@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff219886-6b0a-4122-a32a-0edf0ae896fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l0BQCpuVWxswuYvBdwMIfDwsTR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../mysql-connector-java-5.1.48.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.JDBC">
+    <configuration name="IOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.IOTest" />
+      <module name="JavaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.JDBC" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.MapTest" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Reflect" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaLearn/DOM/exam2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDBC" />
+        <item itemvalue="Application.Reflect" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="JavaScript Debug.exam2.html" />
+        <item itemvalue="Application.IOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff219886-6b0a-4122-a32a-0edf0ae896fa" name="Default Changelist" comment="" />
+      <created>1606724109395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606724109395</updated>
+      <workItem from="1606724112154" duration="59987000" />
+      <workItem from="1607255609096" duration="2766000" />
+      <workItem from="1607322183808" duration="456000" />
+      <workItem from="1607390695727" duration="13000" />
+      <workItem from="1607498580108" duration="3819000" />
+      <workItem from="1607585911610" duration="9317000" />
+      <workItem from="1607929434349" duration="497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="103" y="31" key="#Notifications" timestamp="1607322604146">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="103" y="31" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1607322604146" />
+    <state x="274" y="42" key="#Tomcat_Server" timestamp="1607929891342">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="274" y="42" key="#Tomcat_Server/0.0.1366.768@0.0.1366.768" timestamp="1607929891342" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607589484040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1607589484040" />
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1606811771121">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1606811771121" />
+    <state x="516" y="154" key="FileChooserDialogImpl" timestamp="1607586169594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="516" y="154" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1607586169594" />
+    <state width="1322" height="239" key="GridCell.Tab.0.bottom" timestamp="1607908178303">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607908178303" />
+    <state width="1322" height="239" key="GridCell.Tab.0.center" timestamp="1607908178297">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1607908178297" />
+    <state width="1322" height="239" key="GridCell.Tab.0.left" timestamp="1607908178296">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1607908178296" />
+    <state width="1322" height="239" key="GridCell.Tab.0.right" timestamp="1607908178301">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1607908178301" />
+    <state width="1322" height="239" key="GridCell.Tab.1.bottom" timestamp="1607908178306">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607908178306" />
+    <state width="1322" height="239" key="GridCell.Tab.1.center" timestamp="1607908178305">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1607908178305" />
+    <state width="1322" height="239" key="GridCell.Tab.1.left" timestamp="1607908178304">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1607908178304" />
+    <state width="1322" height="239" key="GridCell.Tab.1.right" timestamp="1607908178305">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1607908178305" />
+    <state width="1322" height="239" key="GridCell.Tab.2.bottom" timestamp="1607242682359">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.2.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607242682359" />
+    <state width="1322" height="239" key="GridCell.Tab.2.center" timestamp="1607242682357">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.2.center/0.0.1366.768@0.0.1366.768" timestamp="1607242682357" />
+    <state width="1322" height="239" key="GridCell.Tab.2.left" timestamp="1607242682328">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.2.left/0.0.1366.768@0.0.1366.768" timestamp="1607242682328" />
+    <state width="1322" height="239" key="GridCell.Tab.2.right" timestamp="1607242682358">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.2.right/0.0.1366.768@0.0.1366.768" timestamp="1607242682358" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1607586181917">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1607586181917" />
+    <state x="57" y="0" key="new project wizard" timestamp="1607929932693">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1607929932693" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1606880163299">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1606880163299" />
+  </component>
+</project>

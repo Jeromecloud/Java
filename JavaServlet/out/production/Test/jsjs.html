@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS学习文件</title>
+    <script src="js/test.js"></script>
+</head>
+<body>
+    <script>document.write(Date())</script>
+    <div>
+        <a href="https://www.baidu.com" id="1">bai a du </a>
+    </div>
+    <!--这种方法耦合性高，不建议使用-->
+    <!--<div onclick="fun2()">what ffffffffffffffffffffffffuck</div>-->
+</body>
+<script>
+    // alert("hello js");
+    // var div = document.getElementsByTagName("div");
+    // alert(div);
+    // var a = document.getElementById("1");
+    // a.href="https://www.91porn.com/video.php?category=rf&page=1";//修改标签体属性值
+    // a.innerHTML="https://www.91porn.com/video.php?category=rf&page=1";//改变标签体内容
+    // function fun1() {
+    //     var a = document.getElementById("1");
+    //     // a.href="https://www.91porn.com/video.php?category=rf&page=1";
+    //     a.innerText = "https://www.91porn.com/video.php?category=rf&page=1";
+    // }
+    //
+    // function fun2() {
+    //     alert("waht");
+    // }
+
+    var b = document.getElementById("1");
+    b.onclick = function () {
+        alert("oooo");
+    }
+</script>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2、移动列表项</title>
+    <style type="text/css">
+        .bigbox {
+            width: 200px;
+            height: 500px;
+            border: 1px solid;
+            float: left;
+            text-align: center;
+        }
+
+        #middlebox {
+            width: 150px;
+            height: 500px;
+            border: 0px;
+        }
+
+        input {
+            width: 90px;
+            height: 50px;
+            margin: 20px;
+        }
+    </style>
+    <script>
+        window.onload = function () {
+            var btn1 = document.getElementById("btn1");
+            var btn2 = document.getElementById("btn2");
+            var btn3 = document.getElementById("btn3");
+            var btn4 = document.getElementById("btn4");
+            var btn = document.getElementsByName("btn");
+            var box1 = document.getElementById("box1");
+            var box2 = document.getElementById("box2");
+
+            for (var i = 0; i < btn.length; i++) {
+                btn[i].setAttribute('selected', false);
+            }
+            btn1.onclick = function () {
+                for (var i = 0; i < btn.length; i++) {
+                    if (btn[i].getAttribute('selected') == 'true') {
+                        box2.appendChild(btn[i]);
+                    }
+
+                }
+            }
+            btn2.onclick = function () {
+                for (var i = 0; i < btn.length; i++) {
+                    box2.appendChild(btn[i]);
+                }
+            }
+            btn3.onclick = function () {
+                for (var i = 0; i < btn.length; i++) {
+                    if (btn[i].getAttribute('selected') == 'true') {
+                        box1.appendChild(btn[i]);
+                    }
+
+                }
+            }
+            btn4.onclick = function () {
+                for (var i = 0; i < btn.length; i++) {
+                    box1.appendChild(btn[i]);
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+<div id="box1" class="bigbox">
+    <input type="button" name="btn" value="张三" onclick="this.setAttribute('selected',true);">
+    <input type="button" name="btn" value="李四" onclick="this.setAttribute('selected',true);">
+    <input type="button" name="btn" value="王五" onclick="this.setAttribute('selected',true);">
+    <input type="button" name="btn" value="赵六" onclick="this.setAttribute('selected',true);">
+    <input type="button" name="btn" value="周七" onclick="this.setAttribute('selected',true);">
+</div>
+<div id="middlebox" class="bigbox">
+    <input type="button" id="btn1" value=">>">
+    <br>
+    <input type="button" id="btn2" value=">>>">
+    <br>
+    <input type="button" id="btn3" value="<<">
+    <br>
+    <input type="button" id="btn4" value="<<<">
+</div>
+<div id="box2" class="bigbox">
+</div>
+
+</body>
+</html>
